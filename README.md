@@ -14,3 +14,11 @@
 AI Chat (Gemini 1.5 API) Remix 2 
 
 ***
+### setup
+
+* .env : API_KEY set
+
+```
+VITE_API_KEY=""
+```
+***
